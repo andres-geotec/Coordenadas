@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coordenadas</string>
+
+    <string name="btn_get_location">Obtener coordenadas</string>
+    <string name="lbl_text_location">Coordenadas: </string>
+    <string name="getting_location">Obteniendo coordenadas...</string>
+
+    <string name="on_provider_enabled">GPS Activado</string>
+    <string name="on_provider_disabled">GPS Desactivado</string>
+    <string name="permissions_denied">Permisos denegados</string>
+</resources>
